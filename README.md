@@ -1,7 +1,7 @@
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
 # Machester Boxing
-Manchester Boxing is a websiter developed for an imaginary community boxing club whose mission is to promote health and fitness by providing boxing training. The club is seeing an increased demand and therefore created a website so anyone interested can join and attend the group classes. It is a fun way to get healthy. 
+Manchester Boxing is a website developed for an imaginary community boxing club whose mission is to promote health and fitness by providing boxing training. The club is seeing an increased demand and therefore created a website so anyone interested can join and attend the group classes. It is a fun way to get healthy. 
 
 [](https://github.com/KhanRana/community_boxing_club/blob/main/assets/media/responsive.png)
 
